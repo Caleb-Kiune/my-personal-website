@@ -37,7 +37,7 @@ color: white;
 }
 
 .test0{
-  background-color: burlywood;
+  
   margin-top: 20px;
 
 }
@@ -50,7 +50,7 @@ color: white;
 }
 
 #about >div{
-  background-color: aqua;
+  
 }
 
 #projects{
@@ -60,13 +60,13 @@ color: white;
 }
 
 #contact{
-  background-color: brown;
+  
   position: absolute;
-  top: 2000px;
+  top: 1750px;
 }
 .home-pic{
   width: 30%;
-  float: right;
+  float: left;
 }
 
 .profile-pic{
@@ -83,16 +83,19 @@ color: white;
   font-weight: bold;
   font-size: 20px;
   margin-bottom: 5px;
+  
 }
 .home-c{
   margin-bottom: 5px;
 }
 .home-button{
-  background-color: aquamarine;
+  
   border: none;
   border-radius: 50px;
   font-size: 20px;
   padding: 10px 20px;
+  margin-left: 150px;
+  font-weight: bold;
 }
 
 .about-a{
@@ -109,13 +112,19 @@ color: white;
 }
 
 #projects > div{
-background-color: blueviolet;
+
 display: grid;
 row-gap: 40px;
 }
 .project-pic{
   float: left;
 }
+
+#contact > div{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 
 
 
