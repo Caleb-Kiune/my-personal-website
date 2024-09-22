@@ -307,7 +307,7 @@ img:hover{
   opacity: 0.9;
 }
 .icons a:hover{
-  background-color: #111;
+  background-color: black;
   transition: 0.5s;
 }
 .icons a:hover i{
