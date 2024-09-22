@@ -36,18 +36,17 @@ color: white;
   margin-left: 20px;
 }
 
-#home{
-  background-color: aquamarine;
-  position: absolute;
-  top: 5000px;
+.test0{
+  background-color: burlywood;
+  margin-top: 20px;
 
 }
 
 
 #about{
   background-color: aquamarine;
-  position: relative;
-  top: 100px;
+  position: absolute;
+  top: 300px;
   
 }
 
@@ -81,6 +80,16 @@ color: white;
   font-weight: bold;
   font-size: 20px;
   margin-bottom: 5px;
+}
+.home-c{
+  margin-bottom: 5px;
+}
+.home-button{
+  background-color: aquamarine;
+  border: none;
+  border-radius: 50px;
+  font-size: 20px;
+  padding: 5px 25px;
 }
 
 .about-a{
