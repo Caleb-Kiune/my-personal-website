@@ -1,3 +1,68 @@
-h1{
-  color: brown;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkgrey;
+}
+
+#main-header{
+background-color: darkgrey;
+color: white;
+}
+
+.container{
+  width: 80%;
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#navbar .nav-list{
+  list-style: none;
+  display: flex;
+}
+
+.nav-link{
+  text-decoration: none;
+}
+
+.nav-i{
+  margin-left: 20px;
+}
+
+
+#about{
+  background-color: aquamarine;
+  position: absolute;
+  top: 100px;
+}
+
+#projects{
+  background-color: blue;
+  position: absolute;
+  top: 400px;
+}
+
+#contact{
+  background-color: brown;
+  position: absolute;
+  top: 800px;
+}
+
+.project-pic{
+  width: 100px;
+
+}
+
+.profile-pic{
+  width: 200px;
+}
+  
+
+
