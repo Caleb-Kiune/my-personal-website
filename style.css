@@ -94,9 +94,7 @@ nav a:hover{
   top: 600px;
 }
 
-.intro{
-  
-}
+
 
 .about-picture{
   width: 30%;
@@ -110,13 +108,21 @@ nav a:hover{
   
   position: absolute;
   top: 1000px;
+  
 }
 
 #contact{
   
   position: absolute;
-  top: 2100px;
+  top: 2200px;
 }
+
+#footercontainer{
+  position: absolute;
+  top:2700px
+
+}
+
 
 
 .profile-pic{
@@ -250,7 +256,78 @@ row-gap: 40px;
   }
 }
 
+p{
+  margin-top: 30px;
+}
+.pj{
+  margin-bottom: 30px;
+}
+form{
+  border: none;
+}
+.lt, .i,.j{
+  font-weight: bold;
+  color: #b74b4b;
+}
 
+img{
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+img:hover{
+  transform: scale(1.1);
+}
+.icons{
+  display: flex;
+  justify-content: center;
+  
+}
+.icons a{
+  text-decoration: none;
+  padding: 10px;
+  background-color: white;
+  margin-bottom: 50px;
+  margin-right: 100px;
+  border-radius: 50%;
+}
+.icons a i{
+  font-size: 2em;
+  color: black;
+  opacity: 0.9;
+}
+.icons a:hover{
+  background-color: #111;
+  transition: 0.5s;
+}
+.icons a:hover i{
+  color: white;
+  transition: 0.5s;
+}
+.footernav ul{
+
+  display: flex;
+  justify-content: center;
+}
+.footernav ul li a{
+  color: white;
+  margin: 10px 120px;
+  text-decoration: none;
+  font-size: 1.3em;
+  opacity: 0.7;
+  transition: 0.5s;
+  text-align: center;
+}
+
+.footernav ul li a:hover{
+  opacity: 1;
+
+}
+.footerbottom{
+  background-color: #000;
+  padding: 20px;
+  text-align: center;
+
+}
 
 
 
