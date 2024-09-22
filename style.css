@@ -113,6 +113,10 @@ background-color: blueviolet;
 display: grid;
 row-gap: 40px;
 }
+.project-pic{
+  float: left;
+}
+
 
 
 
