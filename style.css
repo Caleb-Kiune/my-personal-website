@@ -62,7 +62,7 @@ color: white;
 #contact{
   background-color: brown;
   position: absolute;
-  top: 1500px;
+  top: 2000px;
 }
 .home-pic{
   width: 30%;
@@ -111,7 +111,9 @@ color: white;
 #projects > div{
 background-color: blueviolet;
 display: grid;
+row-gap: 40px;
 }
+
 
 
 
