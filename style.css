@@ -39,14 +39,15 @@ color: white;
 
 #about{
   background-color: aquamarine;
-  position: absolute;
+  position: relative;
   top: 100px;
+  
 }
 
 #projects{
   background-color: blue;
   position: absolute;
-  top: 400px;
+  top: 4000px;
 }
 
 #contact{
@@ -55,13 +56,35 @@ color: white;
   top: 800px;
 }
 
-.project-pic{
-  width: 100px;
-
+.profile-pic{
+  width: 30%;
+  float:right;
 }
 
-.profile-pic{
-  width: 200px;
+.test1 p{
+  padding-left: 80px;
+  padding-right: 20px;
+  
+}
+
+.a{
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.b{
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.c{
+  font-size: 15px;
+}
+h2{
+  position: absolute;
+  top: 1px;
+  left: 10px;
+  
 }
   
 
