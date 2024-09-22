@@ -12,6 +12,10 @@ body{
 #main-header{
 background-color: darkgrey;
 color: white;
+position: fixed;
+top: 0;
+z-index: 1000;
+width: 100%;
 }
 
 .container{
@@ -22,6 +26,7 @@ color: white;
   align-items: center;
   justify-content: space-between;
 }
+
 
 #navbar .nav-list{
   list-style: none;
@@ -41,7 +46,6 @@ color: white;
   margin-top: 20px;
 
 }
-
 
 #about{
   position: absolute;
