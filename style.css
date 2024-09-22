@@ -44,14 +44,17 @@ color: white;
 
 
 #about{
-  background-color: aquamarine;
   position: absolute;
   top: 400px;
   
 }
 
+#about >div{
+  background-color: aqua;
+}
+
 #projects{
-  background-color: blue;
+  
   position: absolute;
   top: 700px;
 }
@@ -104,6 +107,12 @@ color: white;
 .project-pic{
   width: 30%;
 }
+
+#projects > div{
+background-color: blueviolet;
+display: grid;
+}
+
 
 
 
