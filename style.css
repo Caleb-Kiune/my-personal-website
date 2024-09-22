@@ -46,20 +46,20 @@ color: white;
 #about{
   background-color: aquamarine;
   position: absolute;
-  top: 300px;
+  top: 400px;
   
 }
 
 #projects{
   background-color: blue;
   position: absolute;
-  top: 4000px;
+  top: 700px;
 }
 
 #contact{
   background-color: brown;
   position: absolute;
-  top: 800px;
+  top: 1500px;
 }
 .home-pic{
   width: 30%;
@@ -89,7 +89,7 @@ color: white;
   border: none;
   border-radius: 50px;
   font-size: 20px;
-  padding: 5px 25px;
+  padding: 10px 20px;
 }
 
 .about-a{
@@ -99,6 +99,10 @@ color: white;
 .about-b{
   font-weight: bold;
   font-size: 40px;
+}
+
+.project-pic{
+  width: 30%;
 }
 
 
