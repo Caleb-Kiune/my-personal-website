@@ -36,6 +36,13 @@ color: white;
   margin-left: 20px;
 }
 
+#home{
+  background-color: aquamarine;
+  position: absolute;
+  top: 5000px;
+
+}
+
 
 #about{
   background-color: aquamarine;
@@ -55,37 +62,38 @@ color: white;
   position: absolute;
   top: 800px;
 }
+.home-pic{
+  width: 30%;
+  float: right;
+}
 
 .profile-pic{
   width: 30%;
   float:right;
 }
 
-.test1 p{
-  padding-left: 80px;
-  padding-right: 20px;
-  
-}
-
-.a{
+.home-a{
   font-weight: bold;
-  font-size: 30px;
+  font-size: 40px;
+  margin-bottom: 5px;
+}
+.home-b{
+  font-weight: bold;
+  font-size: 20px;
   margin-bottom: 5px;
 }
 
-.b{
+.about-a{
   font-weight: bold;
-  margin-bottom: 5px;
+  font-size: 20px;
 }
-.c{
-  font-size: 15px;
+.about-b{
+  font-weight: bold;
+  font-size: 40px;
 }
-h2{
-  position: absolute;
-  top: 1px;
-  left: 10px;
-  
-}
+
+
+
   
 
 
