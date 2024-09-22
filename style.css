@@ -106,7 +106,11 @@ nav a:hover{
   width: 30%;
   float:right;
   border-radius: 50%;
+  position: relative;
+  box-shadow: 0 0 25px #b74b4b ;
+
 }
+
 
 .home-a{
   font-weight: bold;
@@ -143,6 +147,9 @@ nav a:hover{
 
 .project-pic{
   width: 30%;
+  border-radius: 50%;
+  position: relative;
+  box-shadow: 0 0 25px #b74b4b ;
 }
 
 #projects > div{
@@ -158,6 +165,13 @@ row-gap: 40px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
+
+.test1{
+
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
 
 
 
