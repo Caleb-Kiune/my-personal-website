@@ -36,6 +36,9 @@ Email:calebkiune@gmail.com
 or follow me on twitter & instagram
 Twitter username:@calebkiune
 Instagram username: @calebkiune
+Linkedin username:@calebkiune
+## LICENSE
+This project is under MIT license.
 
 
 
