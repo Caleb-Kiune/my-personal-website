@@ -357,6 +357,11 @@ form{
   margin-top: 50px;
   
 }
+p{
+  line-height: 2 ;
+  word-spacing: 3px;
+  letter-spacing: 1px;
+}
 
 
 
