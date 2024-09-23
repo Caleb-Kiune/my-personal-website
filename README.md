@@ -23,7 +23,12 @@ You can also access it by simply useing the link (https://github.com/Caleb-Kiune
 3. Navigate to the project folder.'cd portfolio' 
 4. Open the index.html in VS Studio Code using 'code .'
 ## CONTRIBUTIONS
-Contributions and improvements are welcome.
+Contributions and improvements are welcome.Simply
+1. Fork the repo.
+2. Create a branch.
+3. Commit your changes.
+4. Push to the branch.
+5. Open a pull request
 ## CONTACT
 You can contact me via phone,email
 Mobile:070577471
